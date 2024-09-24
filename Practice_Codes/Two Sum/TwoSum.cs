@@ -42,7 +42,7 @@ namespace Practice_Codes.Two_Sum
                     return new int[] { i, i + 1 };
                 }
             }
-            return null;
+            return null ;
         }
     }
 }
